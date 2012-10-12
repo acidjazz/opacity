@@ -1,0 +1,3 @@
+
+RewriteEngine On
+RewriteRule ^img\/opacity\/(.*)\.png$ /opacity.php?params=$1 [L]
