@@ -370,7 +370,6 @@ Full-Width Styles
   padding-top: 40px;
 }
 
-<<<<<<< HEAD
 .cf {
   zoom:1;
 }
@@ -396,7 +395,7 @@ Full-Width Styles
     top: 220px;
       left: 140px;
         color: #000;
-          background: url('/img/opacity/ffffff_50.png');
+          background: url('http://opacity.256.li/img/opacity/ffffff_50.png');
 
 }
 
@@ -404,18 +403,17 @@ Full-Width Styles
     top: 480px;
       left: 540px;
         color: #fff;
-          background: url('/img/opacity/000000_50.png');
+          background: url('http://opacity.256.li/img/opacity/000000_50.png');
 }
 
-.color1 { background: url('/img/opacity/ff0000_20.png'); }
-.color2 { background: url('/img/opacity/00ff00_40.png'); }
-.color3 { background: url('/img/opacity/0000ff_60.png'); }
+.color1 { background: url('http://opacity.256.li/img/opacity/ff0000_20.png'); }
+.color2 { background: url('http://opacity.256.li/img/opacity/00ff00_40.png'); }
+.color3 { background: url('http://opacity.256.li/img/opacity/0000ff_60.png'); }
 
-.color4 { background: url('/img/opacity/255,255,0_30.png'); }
-.color5 { background: url('/img/opacity/255,0,255_60.png'); }
-.color6 { background: url('/img/opacity/0,255,255_90.png'); }
+.color4 { background: url('http://opacity.256.li/img/opacity/255,255,0_30.png'); }
+.color5 { background: url('http://opacity.256.li/img/opacity/255,0,255_60.png'); }
+.color6 { background: url('http://opacity.256.li/img/opacity/0,255,255_90.png'); }
 
-=======
 #footer_wrap {
   background: #212121;
 }
@@ -475,4 +473,3 @@ Small Device Styles
   }
 
 }
->>>>>>> 17bd822c3ef76296eb4f6b928814d847426c6aeb
