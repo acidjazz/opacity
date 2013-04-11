@@ -245,3 +245,44 @@ a {
 .cf {
   zoom:1;
 }
+
+.block {
+    float: left;
+      padding: 10px;
+        margin: 5px;
+          text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.overlay {
+    position: absolute;
+      padding: 20px 30px;
+        font-size: 14px;
+}
+
+.o1 {
+    top: 220px;
+      left: 140px;
+        color: #000;
+          background: url('/img/opacity/ffffff_50.png');
+
+}
+
+.o2 {
+    top: 480px;
+      left: 540px;
+        color: #fff;
+          background: url('/img/opacity/000000_50.png');
+}
+
+.color1 { background: url('/img/opacity/ff0000_20.png'); }
+.color2 { background: url('/img/opacity/00ff00_40.png'); }
+.color3 { background: url('/img/opacity/0000ff_60.png'); }
+
+.color4 { background: url('/img/opacity/255,255,0_30.png'); }
+.color5 { background: url('/img/opacity/255,0,255_60.png'); }
+.color6 { background: url('/img/opacity/0,255,255_90.png'); }
+
