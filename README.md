@@ -35,3 +35,8 @@ RewriteRule ^img\/opacity\/(.*)\.png$ /opacity.php?params=$1 [L]
 ` chmod 777 img/opacity `
 
 
+### demo
+can be found [here](http://opacity.256.li/)
+
+ 
+
