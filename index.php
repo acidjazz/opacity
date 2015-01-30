@@ -55,29 +55,29 @@ html,body {
 
 <div class="block color1">
   <div>background: url('/img/opacity/ff0000_20.png');</div>
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
 </div>
 <div class="block color2">
   <div>background: url('/img/opacity/00ff00_40.png');</div>
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
 </div>
 <div class="block color3">
   <div>background: url('/img/opacity/0000ff_60.png');</div>
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
 </div>
 
 <div class="clear"></div>
 
 <div class="block color4">
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
   <div>background: url('/img/opacity/255,255,0_30.png');</div>
 </div>
 <div class="block color5">
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
   <div>background: url('/img/opacity/255,0,255_60.png');</div>
 </div>
 <div class="block color6">
-  <img src="http://opacity.256.li/transparent.png" />
+  <img src="http://opacity.256.sh/transparent.png" />
   <div>background: url('/img/opacity/0,255,255_90.png');</div>
 </div>
 

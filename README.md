@@ -36,7 +36,7 @@ RewriteRule ^img\/opacity\/(.*)\.png$ /opacity.php?params=$1 [L]
 
 
 ### demo
-can be found [here](http://opacity.256.li/)
+can be found [here](http://opacity.256.sh/)
 
  
 
